@@ -1,0 +1,9 @@
+This is new world
+Player_num_3;35.0;35.0;true;10;10;8
+Player_num_3;40.0;40.0;true;10;10;8
+Player_num_3;5.0;2.0;true;10;10;8
+Player_num_3;10.0;15.0;true;10;10;8
+Player_num_3;6.0;7.0;true;10;10;8
+Player_num_3;1.0;1.0;true;10;10;8
+Player_num_3;2.0;2.0;true;10;10;8
+Masha_Entity;40.0;35.0;false;20;20;6;Masha;
